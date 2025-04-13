@@ -1,4 +1,4 @@
-# Terrain Classification Project
+# Terrain Classification for Robotics Navigation using Machine Learning
 
 ## Project Overview
 This project implements a Convolutional Neural Network (CNN) for classifying terrain types using machine learning. The model can identify four terrain categories: Forest, Plains, Mountain, and Desert based on the dataset provided in the [`Terrains`](Terrains) folder.
