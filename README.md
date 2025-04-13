@@ -37,7 +37,7 @@ pip install -r requirements.txt
    - Desert
 3. Each subfolder should contain image files of that terrain type
 
-`The dataset is downloaded from [here](https://www.kaggle.com/code/dogukantabak/terrain-types-classification-resnet50).
+The dataset is downloaded from [here](https://www.kaggle.com/code/dogukantabak/terrain-types-classification-resnet50/input).
 
 ## Running the Notebook
 ```bash
@@ -63,4 +63,6 @@ The Jupyter notebook will:
 
 ## Contact
 Ashwin Murali Thanalapati
+
 MISIS ID: M01037932
+
