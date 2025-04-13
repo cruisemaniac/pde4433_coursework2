@@ -60,6 +60,8 @@ The Jupyter notebook will:
 - Scikit-learn
 - Seaborn
 
+## Demo Video
+The explanation and demonstration of the coursework, dataset, model training, and prediction is uploaded to Youtube [here](https://youtu.be/Ko6-Kw0IRCE).
 
 ## Contact
 Ashwin Murali Thanalapati
